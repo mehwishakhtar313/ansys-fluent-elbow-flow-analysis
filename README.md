@@ -79,8 +79,6 @@ The maximum iteration count was set to 150. Convergence must be assessed separat
 - Quantitative pressure-drop and mass-flow-rate results are not available.
 - Residual histories and convergence assessments have not been documented.
 - Mesh independence and experimental validation have not been established.
-- The exact turbulence-model variant requires confirmation.
-- The assignment of aluminium to a solid cell zone has not been confirmed.
 
 ## 10. Future Work
 
