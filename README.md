@@ -20,7 +20,6 @@ The simulation analyzes velocity and temperature distributions under different i
 | CFD Software | ANSYS Fluent |
 | Geometry | Elbow-shaped passage with two inlets |
 | Working Fluid | Water (`water-liquid` assigned to the fluid cell zone) |
-| Other Defined Materials | Air and aluminium |
 | Energy Equation | Enabled |
 | Turbulence Model | k-epsilon (specific variant to be confirmed) |
 | Pressure-Velocity Coupling | SIMPLE |
