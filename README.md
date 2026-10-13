@@ -52,13 +52,13 @@ The computational mesh discretizes the flow domain into cells for numerical solu
 
 The static-temperature contour illustrates temperature variations throughout the passage. The displayed temperature range is approximately 293–313 K.
 
-![Static Temperature Contour](images/temp-contour.png)
+![Static Temperature Contour](images/temp_contour.png)
 
 ### 6.2 Velocity Magnitude Contour
 
 The velocity-magnitude contour illustrates spatial variations in flow velocity, including localized changes near the inlet junction and elbow. The displayed velocity range is approximately 0–1.55 m/s.
 
-![Velocity Magnitude Contour](images/velocity-contour.png)
+![Velocity Magnitude Contour](images/velocity_contour.png)
 
 ## 7. Preliminary Observations
 
